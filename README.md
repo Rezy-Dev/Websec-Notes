@@ -1,3 +1,9 @@
+---
+description: r3zy/d3v
+cover: .gitbook/assets/wallhaven-3lepy9_1920x1080.png
+coverY: 0
+---
+
 # 👋 Welcome
 
 Welcome to Raunak Neupane's GitBook!
