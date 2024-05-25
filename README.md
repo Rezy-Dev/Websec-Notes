@@ -1,7 +1,7 @@
 ---
 description: r3zy/d3v
-cover: .gitbook/assets/wallhaven-3lepy9_1920x1080.png
-coverY: 0
+cover: .gitbook/assets/wallhaven-zy2x7v_1920x1080.png
+coverY: -259
 ---
 
 # 👋 Welcome
